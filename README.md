@@ -15,6 +15,3 @@ Mein Hauptbeitrag bestand in der Erforschung der Funktionsweise und der technisc
 ## Demonstrationsvideo
 [Video zur Funktionsweise des Geräts](https://github.com/user-attachments/assets/9134ec29-9233-4f83-af81-fe4e9575d060)
 [CAD des Geräts](https://github.com/user-attachments/assets/19b62f14-a42f-460a-a51a-7476d756efa1)
-
-## Anhänge
-[Gerber_Leiterplatte-Biosync.zip](https://github.com/user-attachments/files/25219559/Gerber_Leiterplatte-Biosync.zip)
