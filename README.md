@@ -21,7 +21,7 @@ Within three weeks, a fully functional analog electromyography system based on o
 ![Leiterplatte-Biosync](Hardware/PCB/Leiterplatte-Biosync.png)
 
 ## Schematic representation of the PCB
-[Schematische_Darstellung_der_Leiterplatte](Hardware/Schematische_Darstellung_der_Leiterplatte.pdf)
+[Schematische_Darstellung_der_Leiterplatte](Hardware/PCB/Schematische_Darstellung_der_Leiterplatte.pdf)
 
 ## Demonstration video
 [Video zur Funktionsweise des Geräts](https://github.com/user-attachments/assets/9134ec29-9233-4f83-af81-fe4e9575d060)
