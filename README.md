@@ -18,5 +18,8 @@ Mein Hauptbeitrag bestand in der Erforschung der Funktionsweise und der technisc
 ## CAD-Video
 [CAD des Geräts](https://github.com/user-attachments/assets/19b62f14-a42f-460a-a51a-7476d756efa1)
 
-## CAD-Konstruktion
-[CAD-Entwurf von Juan Pablo Montiel López](https://cad.onshape.com/documents/aff586c368c0d7d3878bec46/w/0c55245eadaa12ecfda2da36/e/653c6beef09b0a6465198081?renderMode=0&uiState=698d0ba086d30de9f4b8b440)
+## Mechanische Konstruktion
+Das mechanische CAD wurde in Onshape entwickelt von Juan Pablo Montiel López
+
+Onshape-Link:
+https://cad.onshape.com/documents/aff586c368c0d7d3878bec46/w/0c55245eadaa12ecfda2da36/e/653c6beef09b0a6465198081?renderMode=0&uiState=698d0ba086d30de9f4b8b440
