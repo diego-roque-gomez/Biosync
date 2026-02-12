@@ -14,17 +14,17 @@ Within three weeks, a fully functional analog electromyography system based on o
 
 ## PCB design
 ### 3D image of the PCB
-![Vorderansicht der Leiterplatte](Hardware/PCB/Vorderansicht_der_Leiterplatte.png)
-![Rückansicht der Leiterplatte](Hardware/PCB/Rückansicht_der_Leiterplatte.png)
+![Front_view_of_the_circuit_board](Hardware/PCB/Front_view_of_the_circuit_board.png)
+![Rear_view_of_the_circuit_board](Hardware/PCB/Rear_view_of_the_circuit_board.png)
 
 ### Layout 2D
-![Leiterplatte-Biosync](Hardware/PCB/Leiterplatte-Biosync.png)
+![PCB-Biosync](Hardware/PCB/PCB-Biosync.png)
 
 ## Schematic representation of the PCB
-[Schematische_Darstellung_der_Leiterplatte](Hardware/PCB/Schematische_Darstellung_der_Leiterplatte.pdf)
+[Schematische_Darstellung_der_Leiterplatte](Hardware/PCB/Schematic_representation_of_the_PCB.pdf)
 
 ## Demonstration video
-[Video zur Funktionsweise des Geräts](https://github.com/user-attachments/assets/9134ec29-9233-4f83-af81-fe4e9575d060)
+[Video_of_the_device_in_operation](https://github.com/user-attachments/assets/ab688f13-46bf-4212-824c-fb6a888fa019)
 
 ## System Architecture & Team Responsibilities
 
