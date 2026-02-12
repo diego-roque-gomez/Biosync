@@ -1,41 +1,46 @@
 # Biosync
-Entwicklung eines EMG-Biofeedback-Systems zur Muskelrehabilitation
+Development of an EMG biofeedback system for muscle rehabilitation
 
-Comunidad Moss I.A.P. ist eine Organisation, die sich der Betreuung von Menschen mit Behinderungen widmet. Die Organisation beauftragte die Entwicklung eines EMG-Biofeedback-Systems zur Unterstützung der Muskelrehabilitation ihrer Patienten.
+## Project Context ##
+Comunidad Moss I.A.P., an organization dedicated to supporting people with disabilities, commissioned the development of an EMG biofeedback system for muscle rehabilitation therapy.
 
-Innerhalb von drei Wochen entwickelten mein Team und ich ein funktionales analoges Elektromyogramm auf Basis von Operationsverstärkern. Der finale Prototyp wurde der Organisation für den klinischen Einsatz gespendet.
+Within three weeks, a fully functional analog electromyography system based on operational amplifiers was designed and prototyped. The final device was donated to the organization for clinical use.
 
-Mein Hauptbeitrag bestand in der Erforschung der Funktionsweise und der technischen Parameter von EMG-Systemen sowie in der Entwicklung der analogen Schaltung. Anschließend entwarf ich die Leiterplatte (PCB), die bei JLCPCB hergestellt und in den endgültigen Prototyp integriert wurde.
+## Technical Contributions ##
+- Research on EMG system operation principles and signal characteristics
+- Design of the analog signal conditioning circuit (amplification and filtering stages)
+- PCB layout and manufacturing preparation
+- PCB fabrication through JLCPCB and integration into the final prototype
 
-## Leiterplattendesign
-### 3D-Bild der Leiterplatte
+## PCB design
+### 3D image of the PCB
 ![Vorderansicht der Leiterplatte](Hardware/Vorderansicht_der_Leiterplatte.png)
 ![Rückansicht der Leiterplatte](Hardware/Rückansicht_der_Leiterplatte.png)
 
 ### Layout 2D
 ![Leiterplatte-Biosync](Hardware/Leiterplatte-Biosync.png)
 
-## Schematische Darstellung der Leiterplatte
+## Schematic representation of the PCB
 [Schematische_Darstellung_der_Leiterplatte](Hardware/Schematische_Darstellung_der_Leiterplatte.pdf)
 
-## Demonstrationsvideo
+## Demonstration video
 [Video zur Funktionsweise des Geräts](https://github.com/user-attachments/assets/9134ec29-9233-4f83-af81-fe4e9575d060)
 
-## Systemarchitektur und Zuständigkeiten
+## System architecture and responsibilities
 
-Das Projekt wurde gemeinsam mit folgenden Zuständigkeiten entwickelt:
+The project was developed jointly with the following responsibilities:
 
-- **PCB-Design**  
+- **PCB design**  
   Diego Roque Gómez
 
-- **Montage (Gehäuse und PCB):**  
-  Manuel García Frohlich und Luis Ángel Espinosa Contreras (mit Genehmigung aufgenommen)
+- **Assembly (housing and PCB):**  
+  Manuel García Frohlich and Luis Ángel Espinosa Contreras (included with permission)
 
-- **Mechanisches CAD-Design (Onshape):**  
-  Juan Pablo Montiel López (mit Genehmigung aufgenommen)
+- **Mechanical CAD design (Onshape):**  
+  Juan Pablo Montiel López (included with permission)
 
-## Mechanische Konstruktion
-Das mechanische CAD wurde in Onshape entwickelt von Juan Pablo Montiel López
+## Mechanical design
+The mechanical CAD was developed in Onshape by Juan Pablo Montiel López
 
-Onshape-Link:
+Onshape link:
 https://cad.onshape.com/documents/aff586c368c0d7d3878bec46/w/0c55245eadaa12ecfda2da36/e/653c6beef09b0a6465198081?renderMode=0&uiState=698d0ba086d30de9f4b8b440
