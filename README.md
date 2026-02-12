@@ -9,11 +9,11 @@ Mein Hauptbeitrag bestand in der Erforschung der Funktionsweise und der technisc
 
 ## Leiterplattendesign
 ### 3D-Bild der Leiterplatte
-![Vorderansicht der Leiterplatte](https://github.com/user-attachments/assets/f306d0c3-4e71-4843-840f-5f27e278215d)
-![Rückansicht der Leiterplatte](https://github.com/user-attachments/assets/52103f8a-f7e7-4120-bd70-d300cfa82ecb)
+![Vorderansicht der Leiterplatte](Hardware/Vorderansicht_der_Leiterplatte.png)
+![Rückansicht der Leiterplatte](Hardware/Rückansicht_der_Leiterplatte.png)
 
 ### Layout 2D
-![Leiterplatte-Biosync](https://github.com/user-attachments/assets/9b5b249e-cd85-4da8-a6dc-afab6727c46f)
+![Leiterplatte-Biosync](Hardware/Leiterplatte-Biosync.png)
 
 ## Demonstrationsvideo
 [Video zur Funktionsweise des Geräts](https://github.com/user-attachments/assets/9134ec29-9233-4f83-af81-fe4e9575d060)
