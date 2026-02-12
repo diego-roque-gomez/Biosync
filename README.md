@@ -26,7 +26,7 @@ Within three weeks, a fully functional analog electromyography system based on o
 ## Demonstration video
 [Video zur Funktionsweise des Geräts](https://github.com/user-attachments/assets/9134ec29-9233-4f83-af81-fe4e9575d060)
 
-## System architecture and responsibilities
+## System Architecture & Team Responsibilities
 
 The project was developed collaboratively with clearly defined responsibilities:
 
