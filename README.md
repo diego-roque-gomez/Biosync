@@ -28,13 +28,12 @@ Within three weeks, a fully functional analog electromyography system based on o
 
 ## System architecture and responsibilities
 
-The project was developed jointly with the following responsibilities:
+The project was developed collaboratively with clearly defined responsibilities:
 
 - **PCB design:**  
   Diego Roque Gómez
 
 - **Assembly (housing and PCB):**  
-
   Manuel García Frohlich (included with permission)
   
   Luis Ángel Espinosa Contreras (included with permission)
