@@ -29,8 +29,7 @@ Das Projekt wurde gemeinsam mit folgenden Zuständigkeiten entwickelt:
   Diego Roque Gómez
 
 - **Montage (Gehäuse und PCB):**  
-  Manuel García Frohlich (mit Genehmigung aufgenommen)
-  Luis Ángel Espinosa Contreras (mit Genehmigung aufgenommen)
+  Manuel García Frohlich und Luis Ángel Espinosa Contreras (mit Genehmigung aufgenommen)
 
 - **Mechanisches CAD-Design (Onshape):**  
   Juan Pablo Montiel López (mit Genehmigung aufgenommen)
