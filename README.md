@@ -30,7 +30,7 @@ Within three weeks, a fully functional analog electromyography system based on o
 
 The project was developed jointly with the following responsibilities:
 
-- **PCB design**  
+- **PCB design:**  
   Diego Roque Gómez
 
 - **Assembly (housing and PCB):**  
