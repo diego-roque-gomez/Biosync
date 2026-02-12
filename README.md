@@ -15,6 +15,9 @@ Mein Hauptbeitrag bestand in der Erforschung der Funktionsweise und der technisc
 ### Layout 2D
 ![Leiterplatte-Biosync](Hardware/Leiterplatte-Biosync.png)
 
+## Schematische Darstellung der Leiterplatte
+[Schematische_Darstellung_der_Leiterplatte](Hardware/Schematische_Darstellung_der_Leiterplatte.pdf)
+
 ## Demonstrationsvideo
 [Video zur Funktionsweise des Geräts](https://github.com/user-attachments/assets/9134ec29-9233-4f83-af81-fe4e9575d060)
 
