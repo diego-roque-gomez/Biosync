@@ -34,7 +34,10 @@ The project was developed jointly with the following responsibilities:
   Diego Roque Gómez
 
 - **Assembly (housing and PCB):**  
-  Manuel García Frohlich and Luis Ángel Espinosa Contreras (included with permission)
+
+  Manuel García Frohlich (included with permission)
+  
+  Luis Ángel Espinosa Contreras (included with permission)
 
 - **Mechanical CAD design (Onshape):**  
   Juan Pablo Montiel López (included with permission)
