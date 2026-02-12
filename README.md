@@ -21,6 +21,20 @@ Mein Hauptbeitrag bestand in der Erforschung der Funktionsweise und der technisc
 ## Demonstrationsvideo
 [Video zur Funktionsweise des Geräts](https://github.com/user-attachments/assets/9134ec29-9233-4f83-af81-fe4e9575d060)
 
+## Systemarchitektur und Zuständigkeiten
+
+Das Projekt wurde gemeinsam mit folgenden Zuständigkeiten entwickelt:
+
+- **PCB-Design**  
+  Diego Roque Gómez
+
+- **Montage (Gehäuse und PCB):**  
+  Manuel García Frohlich (mit Genehmigung aufgenommen)
+  Luis Ángel Espinosa Contreras (mit Genehmigung aufgenommen)
+
+- **Mechanisches CAD-Design (Onshape):**  
+  Juan Pablo Montiel López (mit Genehmigung aufgenommen)
+
 ## Mechanische Konstruktion
 Das mechanische CAD wurde in Onshape entwickelt von Juan Pablo Montiel López
 
