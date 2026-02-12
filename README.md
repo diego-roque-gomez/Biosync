@@ -14,8 +14,8 @@ Within three weeks, a fully functional analog electromyography system based on o
 
 ## PCB design
 ### 3D image of the PCB
-![Vorderansicht der Leiterplatte](Hardware/Vorderansicht_der_Leiterplatte.png)
-![Rückansicht der Leiterplatte](Hardware/Rückansicht_der_Leiterplatte.png)
+![Vorderansicht der Leiterplatte](Hardware/PCB/Vorderansicht_der_Leiterplatte.png)
+![Rückansicht der Leiterplatte](Hardware/PCB/Rückansicht_der_Leiterplatte.png)
 
 ### Layout 2D
 ![Leiterplatte-Biosync](Hardware/Leiterplatte-Biosync.png)
